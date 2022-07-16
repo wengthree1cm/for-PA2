@@ -45,7 +45,7 @@ int main(int argc, char* argv[]) {
 
 
 
-        int p=0;  int det=0; int det1=0;
+        int det=0; int det1=0;
         if(result==0){
             det=argc-3;
             det1=atoi(argv[2]);
