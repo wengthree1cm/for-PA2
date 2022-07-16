@@ -63,7 +63,7 @@ int main(int argc, char* argv[]) {
 
 
 
-        for(int i=0,j=0;i<length1,j<det1;){
+        for(int i=0,j=0;i<length1 j<det1;){
                 field=0;
                 buf[j]=&lineptr[i];
                 while(i<length1&&lineptr[i]!='\0'&&lineptr[i]!='\t'&&lineptr[i]!=' '){
